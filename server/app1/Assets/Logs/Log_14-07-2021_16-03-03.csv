@@ -1,0 +1,983 @@
+participant-adress,20.33267,start preview hololens,virtual,na
+participant-adress,27.50007,stop preview,virtual,7,1674
+participant-adress,96.05161,start preview kinect,virtual,na
+participant-adress,106.6703,stop preview,virtual,10,61869
+participant-adress,164.2407,start preview kinect,virtual,na
+participant-adress,164.6849,stop preview,virtual,0,4441986
+participant-adress,8.641242,start preview hololens,virtual,na
+participant-adress,8.691682,stop preview,virtual,0,05043983
+participant-adress,9.003678,start preview hololens,virtual,na
+participant-adress,9.909879,stop preview,virtual,0,9062004
+participant-adress,10.52958,start preview hololens,virtual,na
+participant-adress,11.03965,stop preview,virtual,0,5100698
+participant-adress,11.10345,start preview kinect,virtual,na
+participant-adress,13.5359,stop preview,virtual,2,43245
+participant-adress,11.71044,start preview hololens,virtual,na
+participant-adress,11.81481,stop preview,virtual,0,1043701
+participant-adress,27.92764,start preview hololens,virtual,na
+participant-adress,27.96023,stop preview,virtual,0,03258896
+participant-adress,19.75398,start preview hololens,virtual,na
+participant-adress,19.8489,stop preview,virtual,0,0949192
+participant-adress,14.91061,start preview hololens,virtual,na
+participant-adress,14.97261,stop preview,virtual,0,06200027
+participant-adress,28.25267,start use spherical camera,virtual,na
+participant-adress,28.31385,stop use spherical camera,virtual,0,06118011
+participant-adress,28.31385,stop use spherical camera,virtual,0,06118011
+participant-adress,150.1029,start preview hololens,virtual,na
+participant-adress,150.1519,stop preview,virtual,0,04899597
+participant-adress,152.086,start preview hololens,virtual,na
+participant-adress,152.154,stop preview,virtual,0,06800842
+participant-adress,152.3696,start preview hololens,virtual,na
+participant-adress,152.4527,stop preview,virtual,0,08309937
+participant-adress,152.6192,start preview hololens,virtual,na
+participant-adress,155.6165,stop preview,virtual,2,997299
+participant-adress,155.633,start preview hololens,virtual,na
+participant-adress,156.6626,stop preview,virtual,1,029602
+participant-adress,156.6626,hololens view,na,156,6626
+participant-adress,160.4464,start preview virtual,hololens,na
+participant-adress,165.3764,stop preview,hololens,4,930008
+participant-adress,165.9153,start preview hololens,hololens,na
+participant-adress,165.9635,stop preview,hololens,0,04820251
+participant-adress,165.9811,start preview kinect,hololens,na
+participant-adress,165.998,stop preview,hololens,0,01690674
+participant-adress,166.0135,start preview kinect,hololens,na
+participant-adress,166.031,stop preview,hololens,0,01750183
+participant-adress,166.2652,start preview kinect,hololens,na
+participant-adress,166.4789,virtual view,na,9,816299
+participant-adress,166.6952,stop preview,virtual,0,4300079
+participant-adress,167.4794,start preview hololens,virtual,na
+participant-adress,167.7965,kinect view,na,1,317596
+participant-adress,170.9462,stop preview,kinect,3,466797
+participant-adress,170.9926,start preview hololens,kinect,na
+participant-adress,173.2253,reset virtual camera position,na,na
+participant-adress,173.2253,stop preview,kinect,2,232697
+participant-adress,173.6439,start preview hololens,kinect,na
+participant-adress,174.328,virtual view,na,6,531509
+participant-adress,175.4631,stop preview,virtual,1,819199
+participant-adress,192.2395,start use spherical camera,virtual,na
+participant-adress,192.5391,stop use spherical camera,virtual,0,2995911
+participant-adress,192.5391,stop use spherical camera,virtual,0,2995911
+participant-adress,205.0329,start preview hololens,virtual,na
+participant-adress,207.3199,stop preview,virtual,2,287003
+participant-adress,219.7322,start preview hololens,virtual,na
+participant-adress,219.8177,stop preview,virtual,0,08551025
+participant-adress,244.1926,start preview hololens,virtual,na
+participant-adress,248.1259,stop preview,virtual,3,933304
+participant-adress,249.8918,start preview hololens,virtual,na
+participant-adress,249.9427,stop preview,virtual,0,05090332
+participant-adress,250.1415,stop preview,virtual,0,2496948
+participant-adress,250.2081,start preview hololens,virtual,na
+participant-adress,250.6918,stop preview,virtual,0,4837036
+participant-adress,250.7256,start preview kinect,virtual,na
+participant-adress,249.9574,start preview hololens,virtual,na
+participant-adress,254.3214,stop preview,virtual,4,363998
+participant-adress,254.3634,stop preview,virtual,4,406006
+participant-adress,254.3412,start preview hololens,virtual,na
+participant-adress,254.3798,start preview hololens,virtual,na
+participant-adress,254.8182,stop preview,virtual,0,4384003
+participant-adress,255.8286,start preview hololens,virtual,na
+participant-adress,256.6946,stop preview,virtual,0,8660126
+participant-adress,256.7259,start preview kinect,virtual,na
+participant-adress,257.8954,stop preview,virtual,1,169495
+participant-adress,257.9118,start preview hololens,virtual,na
+participant-adress,257.9299,stop preview,virtual,0,01809692
+participant-adress,257.9455,start preview hololens,virtual,na
+participant-adress,258.8159,stop preview,virtual,0,8703918
+participant-adress,266.4508,show camera position,na,na
+participant-adress,268.6877,start preview hololens,virtual,na
+participant-adress,269.471,stop preview,virtual,0,7832947
+participant-adress,278.9384,start using stick,virtual,na
+participant-adress,280.2722,stop using stick,virtual,1,333801
+participant-adress,281.2032,start using stick,virtual,na
+participant-adress,281.945,stop using stick,virtual,0,7418213
+participant-adress,286.0516,start using stick,virtual,na
+participant-adress,293.2441,stop using stick,virtual,7,192505
+participant-adress,294.3897,start using stick,virtual,na
+participant-adress,299.2449,stop using stick,virtual,4,855194
+participant-adress,300.1864,start using stick,virtual,na
+participant-adress,302.3618,stop using stick,virtual,2,175385
+participant-adress,303.0802,start using stick,virtual,na
+participant-adress,304.1976,stop using stick,virtual,1,117401
+participant-adress,304.4443,start using stick,virtual,na
+participant-adress,305.177,stop using stick,virtual,0,7326965
+participant-adress,305.4271,start using stick,virtual,na
+participant-adress,305.8483,stop using stick,virtual,0,4212036
+participant-adress,306.6093,start using stick,virtual,na
+participant-adress,307.1845,stop using stick,virtual,0,5751953
+participant-adress,310.1561,start using stick,virtual,na
+participant-adress,321.8521,stop using stick,virtual,11,69601
+participant-adress,324.3777,start using stick,virtual,na
+participant-adress,324.824,stop using stick,virtual,0,4463196
+participant-adress,332.3751,start using stick,virtual,na
+participant-adress,333.1552,stop using stick,virtual,0,7801208
+participant-adress,333.9036,start using stick,virtual,na
+participant-adress,338.3195,stop using stick,virtual,4,415894
+participant-adress,398.1322,start using stick,virtual,na
+participant-adress,398.3143,stop using stick,virtual,0,1820984
+participant-adress,491.3133,start preview hololens,virtual,na
+participant-adress,491.3568,stop preview,virtual,0,04351807
+participant-adress,491.6081,start preview hololens,virtual,na
+participant-adress,491.9358,stop preview,virtual,0,3276978
+participant-adress,491.9707,start preview kinect,virtual,na
+participant-adress,493.9962,stop preview,virtual,2,025482
+participant-adress,494.8604,start preview kinect,virtual,na
+participant-adress,495.128,kinect view,na,320,8
+participant-adress,495.6942,stop preview,kinect,0,8338013
+participant-adress,496.4572,virtual view,na,1,329224
+participant-adress,497.3128,start preview kinect,virtual,na
+participant-adress,497.3654,stop preview,virtual,0,05258179
+participant-adress,497.5903,start preview kinect,virtual,na
+participant-adress,498.0024,stop preview,virtual,0,4121094
+participant-adress,499.0727,kinect view,na,2,615479
+participant-adress,508.8688,start use spherical camera,kinect,na
+participant-adress,510.0681,stop use spherical camera,kinect,1,19931
+participant-adress,511.5912,virtual view,na,12,51849
+participant-adress,510.0681,stop use spherical camera,virtual,1,19931
+participant-adress,586.3082,start preview hololens,virtual,na
+participant-adress,586.6795,stop preview,virtual,0,3712769
+participant-adress,18.0606,start preview hololens,virtual,na
+participant-adress,24.59167,stop preview,virtual,6,531069
+participant-adress,33.12346,reset virtual camera position,na,na
+participant-adress,41.88695,virtual view,na,-469,7042
+participant-adress,47.86543,start preview kinect,virtual,na
+participant-adress,48.03134,stop preview,virtual,0,1659126
+participant-adress,49.6675,start preview hololens,virtual,na
+participant-adress,50.45175,stop preview,virtual,0,7842522
+participant-adress,52.57731,start preview hololens,virtual,na
+participant-adress,52.66378,stop preview,virtual,0,08647156
+participant-adress,55.33075,start preview kinect,virtual,na
+participant-adress,56.48344,stop preview,virtual,1,152691
+participant-adress,56.52676,reset virtual camera position,na,na
+participant-adress,56.60015,virtual view,na,14,7132
+participant-adress,61.91426,reset virtual camera position,na,na
+participant-adress,61.97948,virtual view,na,5,37933
+participant-adress,78.5091,start preview kinect,virtual,na
+participant-adress,78.89776,stop preview,virtual,0,3886566
+participant-adress,124.3177,start preview kinect,virtual,na
+participant-adress,131.3492,stop preview,virtual,7,031494
+participant-adress,161.9315,start preview hololens,virtual,na
+participant-adress,163.0939,stop preview,virtual,1,162399
+participant-adress,163.1243,start preview kinect,virtual,na
+participant-adress,163.7627,stop preview,virtual,0,6383972
+participant-adress,163.8195,start preview hololens,virtual,na
+participant-adress,163.8594,stop preview,virtual,0,03990173
+participant-adress,163.9437,start preview hololens,virtual,na
+participant-adress,167.8834,stop preview,virtual,3,939713
+participant-adress,172.0184,start preview hololens,virtual,na
+participant-adress,173.2373,stop preview,virtual,1,218903
+participant-adress,180.0349,start preview hololens,virtual,na
+participant-adress,180.3201,stop preview,virtual,0,285202
+participant-adress,181.3591,hololens view,na,119,3796
+participant-adress,188.8454,start preview kinect,hololens,na
+participant-adress,191.9836,stop preview,hololens,3,138199
+participant-adress,192.1043,start preview virtual,hololens,na
+participant-adress,192.1646,stop preview,hololens,0,06030273
+participant-adress,192.1948,start preview virtual,hololens,na
+participant-adress,192.8521,stop preview,hololens,0,6573029
+participant-adress,193.9806,virtual view,na,12,62151
+participant-adress,221.8793,start using stick,virtual,na
+participant-adress,223.5683,stop using stick,virtual,1,688995
+participant-adress,228.6385,start preview hololens,virtual,na
+participant-adress,228.7191,stop preview,virtual,0,08059692
+participant-adress,228.8819,start preview hololens,virtual,na
+participant-adress,230.6649,stop preview,virtual,1,783005
+participant-adress,230.6649,start preview hololens,virtual,na
+participant-adress,251.5931,stop preview,virtual,20,92819
+participant-adress,252.5117,hololens view,na,58,5311
+participant-adress,266.9587,start freeze hololens view,na,na
+participant-adress,267.0238,start preview hololens,hololens,na
+participant-adress,266.9587,start using stick,hololens,na
+participant-adress,267.3042,stop preview,hololens,0,2803955
+participant-adress,267.3439,start preview hololens,hololens,na
+participant-adress,268.5652,stop preview,hololens,1,221283
+participant-adress,268.5652,hololens view,na,16,05348
+participant-adress,268.5652,stop using stick,hololens,1,606476
+participant-adress,268.9545,start freeze hololens view,na,na
+participant-adress,268.9545,start using stick,hololens,na
+participant-adress,269.1857,stop using stick,hololens,0,2312012
+participant-adress,269.2717,hololens view,na,0,7065125
+participant-adress,270.2693,start preview virtual,hololens,na
+participant-adress,270.3849,stop preview,hololens,0,1156006
+participant-adress,270.5998,start preview virtual,hololens,na
+participant-adress,271.3842,stop preview,hololens,0,7843933
+participant-adress,271.5595,start preview kinect,hololens,na
+participant-adress,272.0096,stop preview,hololens,0,4501038
+participant-adress,273.1548,kinect view,na,3,883087
+participant-adress,274.306,start using stick,kinect,na
+participant-adress,274.803,stop using stick,kinect,0,4970093
+participant-adress,275.1689,start using stick,kinect,na
+participant-adress,276.8948,stop using stick,kinect,1,725891
+participant-adress,277.6192,start using stick,kinect,na
+participant-adress,280.5457,stop using stick,kinect,2,926483
+participant-adress,281.4171,start using stick,kinect,na
+participant-adress,282.0774,stop using stick,kinect,0,6602783
+participant-adress,284.1718,virtual view,na,11,01703
+participant-adress,285.0386,start preview hololens,virtual,na
+participant-adress,285.0831,stop preview,virtual,0,04449463
+participant-adress,285.2252,start preview hololens,virtual,na
+participant-adress,285.619,stop preview,virtual,0,3937988
+participant-adress,286.6575,hololens view,na,2,485687
+participant-adress,288.6864,start freeze hololens view,na,na
+participant-adress,288.6864,start using stick,hololens,na
+participant-adress,288.9001,stop using stick,hololens,0,2136841
+participant-adress,289.0208,hololens view,na,2,363312
+participant-adress,289.5741,start freeze hololens view,na,na
+participant-adress,289.5741,start using stick,hololens,na
+participant-adress,291.3654,hololens view,na,2,344574
+participant-adress,291.3654,stop using stick,hololens,1,79129
+participant-adress,292.1486,start freeze hololens view,na,na
+participant-adress,292.1486,start using stick,hololens,na
+participant-adress,294.2332,hololens view,na,2,867798
+participant-adress,294.2332,stop using stick,hololens,2,084595
+participant-adress,301.8107,start preview virtual,hololens,na
+participant-adress,303.3185,stop preview,hololens,1,507813
+participant-adress,304.2415,start freeze hololens view,na,na
+participant-adress,304.2415,start using stick,hololens,na
+participant-adress,305.5373,hololens view,na,11,30411
+participant-adress,305.7495,start freeze hololens view,na,na
+participant-adress,305.5373,stop using stick,hololens,1,295807
+participant-adress,305.7495,start using stick,hololens,na
+participant-adress,309.3057,hololens view,na,3,768402
+participant-adress,309.3057,stop using stick,hololens,3,556183
+participant-adress,309.8243,start preview virtual,hololens,na
+participant-adress,310.5622,stop preview,hololens,0,7378845
+participant-adress,311.6737,virtual view,na,2,368011
+participant-adress,312.6377,start preview hololens,virtual,na
+participant-adress,312.6785,start preview hololens,virtual,na
+participant-adress,312.7995,stop preview,virtual,0,1210022
+participant-adress,312.8496,start preview kinect,virtual,na
+participant-adress,313.2809,stop preview,virtual,0,4313049
+participant-adress,314.3999,kinect view,na,2,726196
+participant-adress,312.6638,stop preview,kinect,-0,1858215
+participant-adress,315.9979,start using stick,kinect,na
+participant-adress,316.2784,stop using stick,kinect,0,2805176
+participant-adress,318.0123,start using stick,kinect,na
+participant-adress,321.4142,stop using stick,kinect,3,401917
+participant-adress,327.9347,start using stick,kinect,na
+participant-adress,331.541,stop using stick,kinect,3,606293
+participant-adress,331.7585,start preview hololens,kinect,na
+participant-adress,331.8049,stop preview,kinect,0,04638672
+participant-adress,332.011,start preview hololens,kinect,na
+participant-adress,332.4232,stop preview,kinect,0,4122009
+participant-adress,332.4911,start preview virtual,kinect,na
+participant-adress,332.7066,stop preview,kinect,0,2155151
+participant-adress,333.3937,start using stick,kinect,na
+participant-adress,334.5296,stop using stick,kinect,1,135895
+participant-adress,339.8726,start preview hololens,kinect,na
+participant-adress,339.8994,stop preview,kinect,0,02682495
+participant-adress,340.5664,start preview virtual,kinect,na
+participant-adress,340.5834,stop preview,kinect,0,01699829
+participant-adress,340.6155,start preview virtual,kinect,na
+participant-adress,340.915,stop preview,kinect,0,2994995
+participant-adress,341.2339,start preview kinect,kinect,na
+participant-adress,341.2901,stop preview,kinect,0,05621338
+participant-adress,341.2901,start preview kinect,kinect,na
+participant-adress,341.3136,stop preview,kinect,0,02349854
+participant-adress,341.3551,start preview kinect,kinect,na
+participant-adress,342.001,virtual view,na,27,6011
+participant-adress,343.307,stop preview,virtual,1,951904
+participant-adress,343.5004,start preview kinect,virtual,na
+participant-adress,343.7516,stop preview,virtual,0,2511902
+participant-adress,345.1229,start preview kinect,virtual,na
+participant-adress,346.1601,stop preview,virtual,1,037201
+participant-adress,350.4355,start using stick,virtual,na
+participant-adress,351.5439,stop using stick,virtual,1,108429
+participant-adress,351.831,start using stick,virtual,na
+participant-adress,353.8848,stop using stick,virtual,2,053802
+participant-adress,362.028,start using stick,virtual,na
+participant-adress,367.0433,start use spherical camera,virtual,na
+participant-adress,367.7441,stop use spherical camera,virtual,0,7008057
+participant-adress,367.9443,stop using stick,virtual,5,91629
+participant-adress,367.7441,stop use spherical camera,virtual,0,7008057
+participant-adress,368.9239,start using stick,virtual,na
+participant-adress,373.6775,stop using stick,virtual,4,753601
+participant-adress,373.8732,start using stick,virtual,na
+participant-adress,375.4241,stop using stick,virtual,1,550903
+participant-adress,376.6092,start using stick,virtual,na
+participant-adress,376.706,start preview hololens,virtual,na
+participant-adress,376.7892,stop using stick,virtual,0,1800232
+participant-adress,377.2893,stop preview,virtual,0,583313
+participant-adress,380.4064,start using stick,virtual,na
+participant-adress,384.9933,stop using stick,virtual,4,586884
+participant-adress,388.637,start preview hololens,virtual,na
+participant-adress,389.601,stop preview,virtual,0,9640198
+participant-adress,390.5871,hololens view,na,48,58609
+participant-adress,392.7109,start preview kinect,hololens,na
+participant-adress,394.3679,stop preview,hololens,1,656982
+participant-adress,395.4824,kinect view,na,4,895294
+participant-adress,438.6079,start preview hololens,kinect,na
+participant-adress,438.6887,stop preview,kinect,0,08078003
+participant-adress,439.0602,start preview hololens,kinect,na
+participant-adress,439.472,stop preview,kinect,0,4117737
+participant-adress,439.7239,hololens view,na,44,24152
+participant-adress,442.4705,start freeze hololens view,na,na
+participant-adress,442.4705,start using stick,hololens,na
+participant-adress,443.8365,hololens view,na,4,112579
+participant-adress,444.2531,start freeze hololens view,na,na
+participant-adress,445.2208,hololens view,na,1,384308
+participant-adress,445.3705,start freeze hololens view,na,na
+participant-adress,445.8873,hololens view,na,0,6665039
+participant-adress,447.1141,start preview virtual,hololens,na
+participant-adress,447.4021,stop preview,hololens,0,2879944
+participant-adress,443.8365,stop using stick,hololens,1,365997
+participant-adress,444.2531,start using stick,hololens,na
+participant-adress,445.2208,stop using stick,hololens,0,9676819
+participant-adress,445.3705,start using stick,hololens,na
+participant-adress,445.8873,stop using stick,hololens,0,5167847
+participant-adress,448.4531,virtual view,na,2,565796
+participant-adress,8.244764,start preview hololens,virtual,na
+participant-adress,9.665362,stop preview,virtual,1,420598
+participant-adress,10.71533,hololens view,na,-437,7378
+participant-adress,11.31439,start preview kinect,hololens,na
+participant-adress,12.25991,stop preview,hololens,0,9455194
+participant-adress,12.90798,start preview hololens,hololens,na
+participant-adress,13.0669,stop preview,hololens,0,1589203
+participant-adress,13.13305,start preview virtual,hololens,na
+participant-adress,13.34958,kinect view,na,2,63425
+participant-adress,13.51021,stop preview,kinect,0,3771601
+participant-adress,13.52693,start preview virtual,kinect,na
+participant-adress,15.32532,stop preview,kinect,1,79839
+participant-adress,16.42941,virtual view,na,3,079831
+participant-adress,18.25188,start preview hololens,virtual,na
+participant-adress,18.64632,stop preview,virtual,0,3944397
+participant-adress,19.65901,hololens view,na,3,229599
+participant-adress,19.67745,virtual view,na,0,01844025
+participant-adress,24.10992,start preview hololens,virtual,na
+participant-adress,24.12665,stop preview,virtual,0,01672935
+participant-adress,24.2565,start preview hololens,virtual,na
+participant-adress,24.57586,stop preview,virtual,0,3193588
+participant-adress,24.57586,hololens view,na,4,898409
+participant-adress,33.35353,start preview virtual,hololens,na
+participant-adress,34.38708,stop preview,hololens,1,03355
+participant-adress,35.55883,start preview virtual,hololens,na
+participant-adress,37.58632,stop preview,hololens,2,027489
+participant-adress,37.60221,start preview virtual,hololens,na
+participant-adress,37.62005,stop preview,hololens,0,01783752
+participant-adress,39.08564,start freeze hololens view,na,na
+participant-adress,39.08564,start using stick,hololens,na
+participant-adress,42.63531,hololens view,na,18,05945
+participant-adress,42.63531,stop using stick,hololens,3,549671
+participant-adress,43.28431,start freeze hololens view,na,na
+participant-adress,43.28431,start using stick,hololens,na
+participant-adress,47.0693,hololens view,na,4,43399
+participant-adress,47.0693,stop using stick,hololens,3,784992
+participant-adress,48.31631,start freeze hololens view,na,na
+participant-adress,48.31631,start using stick,hololens,na
+participant-adress,52.29976,hololens view,na,5,230457
+participant-adress,52.29976,stop using stick,hololens,3,983448
+participant-adress,53.79883,start freeze hololens view,na,na
+participant-adress,53.79883,start using stick,hololens,na
+participant-adress,54.6169,virtual view,na,2,317142
+participant-adress,54.63151,stop freeze hololens view,na,0,8326836
+participant-adress,54.91688,hololens view,na,0,2999802
+participant-adress,54.91688,stop using stick,hololens,1,118053
+participant-adress,56.58118,start freeze hololens view,na,na
+participant-adress,57.34946,start preview hololens,hololens,na
+participant-adress,57.36662,stop preview,hololens,0,01715851
+participant-adress,57.36662,hololens view,na,2,449738
+participant-adress,57.61411,start preview virtual,hololens,na
+participant-adress,57.66438,stop preview,hololens,0,05027008
+participant-adress,56.58118,start using stick,hololens,na
+participant-adress,57.36662,stop using stick,hololens,0,7854385
+participant-adress,57.68113,start preview virtual,hololens,na
+participant-adress,57.93212,stop preview,hololens,0,2509918
+participant-adress,58.83167,virtual view,na,1,46505
+participant-adress,59.26419,start preview hololens,virtual,na
+participant-adress,60.04893,stop preview,virtual,0,7847404
+participant-adress,68.26419,start using stick,virtual,na
+participant-adress,74.63274,stop using stick,virtual,6,368546
+participant-adress,107.2734,start using stick,virtual,na
+participant-adress,127.7838,stop using stick,virtual,20,5104
+participant-adress,133.8207,start using stick,virtual,na
+participant-adress,134.7152,stop using stick,virtual,0,8945007
+participant-adress,142.4769,start using stick,virtual,na
+participant-adress,142.965,stop using stick,virtual,0,4880981
+participant-adress,7.285559,start preview hololens,virtual,na
+participant-adress,7.828508,stop preview,virtual,0,5429487
+participant-adress,8.439582,start preview hololens,virtual,na
+participant-adress,9.340433,stop preview,virtual,0,9008512
+participant-adress,11.56669,start using stick,virtual,na
+participant-adress,20.23743,hololens view,na,-38,59424
+participant-adress,27.73292,reset virtual camera position,na,na
+participant-adress,27.76876,stop using stick,hololens,16,20207
+participant-adress,28.86725,virtual view,na,8,62982
+participant-adress,37.16545,start preview kinect,virtual,na
+participant-adress,37.62172,stop preview,virtual,0,4562683
+participant-adress,37.71626,start preview kinect,virtual,na
+participant-adress,44.21153,stop preview,virtual,6,49527
+participant-adress,44.40872,start preview hololens,virtual,na
+participant-adress,45.76348,stop preview,virtual,1,354763
+participant-adress,46.02546,start preview hololens,virtual,na
+participant-adress,50.89075,stop preview,virtual,4,865292
+participant-adress,50.98913,start preview hololens,virtual,na
+participant-adress,54.74426,stop preview,virtual,3,755131
+participant-adress,55.06319,start preview hololens,virtual,na
+participant-adress,57.37534,stop preview,virtual,2,312149
+participant-adress,57.39273,start preview hololens,virtual,na
+participant-adress,58.44379,stop preview,virtual,1,05106
+participant-adress,68.4846,start use spherical camera,virtual,na
+participant-adress,89.78178,stop use spherical camera,virtual,21,29718
+participant-adress,89.81265,stop use spherical camera,virtual,21,32806
+participant-adress,97.87209,start using stick,virtual,na
+participant-adress,106.5731,stop using stick,virtual,8,701004
+participant-adress,121.1808,start using stick,virtual,na
+participant-adress,125.925,stop using stick,virtual,4,744202
+participant-adress,131.6316,start preview hololens,virtual,na
+participant-adress,131.6541,stop preview,virtual,0,02249146
+participant-adress,131.6725,stop preview,virtual,0,04089355
+participant-adress,131.6899,stop preview,virtual,0,05828857
+participant-adress,131.7148,stop preview,virtual,0,08319092
+participant-adress,131.7484,stop preview,virtual,0,1167908
+participant-adress,131.7655,stop preview,virtual,0,1338959
+participant-adress,131.7879,stop preview,virtual,0,1562958
+participant-adress,131.8165,stop preview,virtual,0,1848907
+participant-adress,131.832,stop preview,virtual,0,2003937
+participant-adress,131.8569,stop preview,virtual,0,225296
+participant-adress,131.8926,stop preview,virtual,0,2609863
+participant-adress,131.9083,stop preview,virtual,0,2766876
+participant-adress,131.9395,stop preview,virtual,0,3078918
+participant-adress,131.9719,stop preview,virtual,0,3402863
+participant-adress,131.6541,start preview hololens,virtual,na
+participant-adress,131.6725,start preview hololens,virtual,na
+participant-adress,131.6899,start preview hololens,virtual,na
+participant-adress,131.7148,start preview hololens,virtual,na
+participant-adress,131.7484,start preview hololens,virtual,na
+participant-adress,131.7655,start preview hololens,virtual,na
+participant-adress,131.7879,start preview hololens,virtual,na
+participant-adress,131.8165,start preview hololens,virtual,na
+participant-adress,131.832,start preview hololens,virtual,na
+participant-adress,131.8569,start preview hololens,virtual,na
+participant-adress,131.8926,start preview hololens,virtual,na
+participant-adress,131.9083,start preview hololens,virtual,na
+participant-adress,131.9395,start preview hololens,virtual,na
+participant-adress,131.9719,start preview hololens,virtual,na
+participant-adress,131.9892,stop preview,virtual,0,01730347
+participant-adress,132.0265,stop preview,virtual,0,05461121
+participant-adress,132.0487,stop preview,virtual,0,07681274
+participant-adress,132.0821,stop preview,virtual,0,1102142
+participant-adress,132.0998,stop preview,virtual,0,1278992
+participant-adress,132.1225,stop preview,virtual,0,1506042
+participant-adress,132.1641,stop preview,virtual,0,1921997
+participant-adress,131.9892,start preview hololens,virtual,na
+participant-adress,132.0487,start preview hololens,virtual,na
+participant-adress,132.0998,start preview hololens,virtual,na
+participant-adress,132.0265,start preview hololens,virtual,na
+participant-adress,132.1225,start preview hololens,virtual,na
+participant-adress,132.0821,start preview hololens,virtual,na
+participant-adress,134.1965,start preview hololens,virtual,na
+participant-adress,139.2651,stop preview,virtual,5,068604
+participant-adress,142.7632,start preview hololens,virtual,na
+participant-adress,144.9234,stop preview,virtual,2,160202
+participant-adress,147.2206,start preview hololens,virtual,na
+participant-adress,147.7279,stop preview,virtual,0,507309
+participant-adress,182.7556,start using stick,virtual,na
+participant-adress,198.7887,stop using stick,virtual,16,0331
+participant-adress,211.3686,start preview hololens,virtual,na
+participant-adress,213.047,stop preview,virtual,1,678391
+participant-adress,218.5899,start preview hololens,virtual,na
+participant-adress,218.6427,stop preview,virtual,0,05279541
+participant-adress,218.8769,start preview hololens,virtual,na
+participant-adress,220.8217,stop preview,virtual,1,944794
+participant-adress,220.8776,start preview kinect,virtual,na
+participant-adress,222.243,stop preview,virtual,1,365402
+participant-adress,222.2924,start preview hololens,virtual,na
+participant-adress,222.8417,stop preview,virtual,0,5493011
+participant-adress,228.1025,start preview kinect,virtual,na
+participant-adress,228.4789,stop preview,virtual,0,3764038
+participant-adress,240.2394,start preview hololens,virtual,na
+participant-adress,241.3167,stop preview,virtual,1,077301
+participant-adress,241.8056,start preview hololens,virtual,na
+participant-adress,242.9889,stop preview,virtual,1,183304
+participant-adress,244.056,hololens view,na,215,1888
+participant-adress,245.4048,start preview kinect,hololens,na
+participant-adress,245.4593,stop preview,hololens,0,05450439
+participant-adress,245.4868,start preview kinect,hololens,na
+participant-adress,245.5063,stop preview,hololens,0,01950073
+participant-adress,245.7267,start preview kinect,hololens,na
+participant-adress,245.801,start preview kinect,hololens,na
+participant-adress,245.7587,stop preview,hololens,-0,04229736
+participant-adress,249.0195,stop preview,hololens,3,218506
+participant-adress,250.131,kinect view,na,6,074997
+participant-adress,256.0977,start preview hololens,kinect,na
+participant-adress,256.8662,stop preview,kinect,0,7685242
+participant-adress,264.7682,start using stick,kinect,na
+participant-adress,289.1896,stop using stick,kinect,24,42142
+participant-adress,289.9478,start preview hololens,kinect,na
+participant-adress,289.9753,stop preview,kinect,0,02749634
+participant-adress,290.3104,start preview hololens,kinect,na
+participant-adress,290.342,stop preview,kinect,0,03161621
+participant-adress,290.3513,stop preview,kinect,0,04089355
+participant-adress,290.3763,stop preview,kinect,0,06591797
+participant-adress,290.3958,stop preview,kinect,0,0854187
+participant-adress,290.4249,stop preview,kinect,0,114502
+participant-adress,290.342,start preview hololens,kinect,na
+participant-adress,290.3763,start preview hololens,kinect,na
+participant-adress,290.4249,start preview hololens,kinect,na
+participant-adress,290.3513,start preview hololens,kinect,na
+participant-adress,290.4449,stop preview,kinect,0,09359741
+participant-adress,290.4729,stop preview,kinect,0,1216125
+participant-adress,290.4827,stop preview,kinect,0,1314087
+participant-adress,290.5093,stop preview,kinect,0,15802
+participant-adress,290.5263,stop preview,kinect,0,1750183
+participant-adress,290.5428,stop preview,kinect,0,1914978
+participant-adress,290.5614,stop preview,kinect,0,2101135
+participant-adress,290.5881,stop preview,kinect,0,2368164
+participant-adress,290.3958,start preview hololens,kinect,na
+participant-adress,290.4729,start preview hololens,kinect,na
+participant-adress,290.5093,start preview hololens,kinect,na
+participant-adress,290.5428,start preview hololens,kinect,na
+participant-adress,290.5881,start preview hololens,kinect,na
+participant-adress,290.6112,stop preview,kinect,0,02310181
+participant-adress,290.6297,stop preview,kinect,0,04159546
+participant-adress,290.6563,stop preview,kinect,0,06820679
+participant-adress,290.6636,stop preview,kinect,0,07550049
+participant-adress,290.7057,stop preview,kinect,0,1175842
+participant-adress,290.7419,stop preview,kinect,0,1538086
+participant-adress,290.7609,stop preview,kinect,0,1727905
+participant-adress,290.782,stop preview,kinect,0,1939087
+participant-adress,290.799,stop preview,kinect,0,210907
+participant-adress,290.4449,start preview hololens,kinect,na
+participant-adress,290.5263,start preview hololens,kinect,na
+participant-adress,290.6112,start preview hololens,kinect,na
+participant-adress,290.6563,start preview hololens,kinect,na
+participant-adress,290.7057,start preview hololens,kinect,na
+participant-adress,290.7609,start preview hololens,kinect,na
+participant-adress,290.799,start preview hololens,kinect,na
+participant-adress,290.8276,stop preview,kinect,0,02859497
+participant-adress,290.851,stop preview,kinect,0,05200195
+participant-adress,290.8771,stop preview,kinect,0,07809448
+participant-adress,290.9009,stop preview,kinect,0,1018982
+participant-adress,290.9171,stop preview,kinect,0,118103
+participant-adress,290.9585,stop preview,kinect,0,1594849
+participant-adress,290.4827,start preview hololens,kinect,na
+participant-adress,290.6297,start preview hololens,kinect,na
+participant-adress,290.7419,start preview hololens,kinect,na
+participant-adress,290.8276,start preview hololens,kinect,na
+participant-adress,290.8771,start preview hololens,kinect,na
+participant-adress,290.9171,start preview hololens,kinect,na
+participant-adress,290.9953,stop preview,kinect,0,07818604
+participant-adress,291.0125,stop preview,kinect,0,09539795
+participant-adress,291.0415,stop preview,kinect,0,1243896
+participant-adress,291.0502,stop preview,kinect,0,1330872
+participant-adress,291.0767,stop preview,kinect,0,1595764
+participant-adress,291.122,stop preview,kinect,0,204895
+participant-adress,291.1349,stop preview,kinect,0,2177734
+participant-adress,291.1583,stop preview,kinect,0,2411804
+participant-adress,290.5614,start preview hololens,kinect,na
+participant-adress,290.782,start preview hololens,kinect,na
+participant-adress,290.9009,start preview hololens,kinect,na
+participant-adress,290.9953,start preview hololens,kinect,na
+participant-adress,291.0415,start preview hololens,kinect,na
+participant-adress,291.0767,start preview hololens,kinect,na
+participant-adress,291.1349,start preview hololens,kinect,na
+participant-adress,291.1583,start preview hololens,kinect,na
+participant-adress,291.1764,stop preview,kinect,0,01809692
+participant-adress,291.1923,stop preview,kinect,0,03399658
+participant-adress,291.209,stop preview,kinect,0,05072021
+participant-adress,291.2285,stop preview,kinect,0,07019043
+participant-adress,291.2544,stop preview,kinect,0,09609985
+participant-adress,291.2782,stop preview,kinect,0,1199036
+participant-adress,290.6636,start preview hololens,kinect,na
+participant-adress,290.9585,start preview hololens,kinect,na
+participant-adress,291.0502,start preview hololens,kinect,na
+participant-adress,291.1764,start preview hololens,kinect,na
+participant-adress,291.209,start preview hololens,kinect,na
+participant-adress,291.2544,start preview hololens,kinect,na
+participant-adress,291.3066,stop preview,kinect,0,05221558
+participant-adress,291.317,stop preview,kinect,0,06259155
+participant-adress,291.3423,stop preview,kinect,0,08789063
+participant-adress,291.3615,stop preview,kinect,0,1071167
+participant-adress,291.3986,stop preview,kinect,0,1441956
+participant-adress,291.416,stop preview,kinect,0,1615906
+participant-adress,291.4424,stop preview,kinect,0,1880188
+participant-adress,291.4606,stop preview,kinect,0,2062073
+participant-adress,291.4784,stop preview,kinect,0,223999
+participant-adress,290.851,start preview hololens,kinect,na
+participant-adress,291.122,start preview hololens,kinect,na
+participant-adress,291.2285,start preview hololens,kinect,na
+participant-adress,291.3066,start preview hololens,kinect,na
+participant-adress,291.3423,start preview hololens,kinect,na
+participant-adress,291.3986,start preview hololens,kinect,na
+participant-adress,291.4424,start preview hololens,kinect,na
+participant-adress,291.4606,start preview hololens,kinect,na
+participant-adress,291.4784,start preview hololens,kinect,na
+participant-adress,291.4947,stop preview,kinect,0,01629639
+participant-adress,291.517,stop preview,kinect,0,03860474
+participant-adress,291.5529,stop preview,kinect,0,07449341
+participant-adress,291.5867,stop preview,kinect,0,1083069
+participant-adress,291.603,stop preview,kinect,0,1246033
+participant-adress,291.6271,stop preview,kinect,0,1487122
+participant-adress,291.6647,stop preview,kinect,0,1863098
+participant-adress,291.6806,stop preview,kinect,0,2022095
+participant-adress,291.7135,stop preview,kinect,0,2351074
+participant-adress,291.0125,start preview hololens,kinect,na
+participant-adress,291.2782,start preview hololens,kinect,na
+participant-adress,291.3615,start preview hololens,kinect,na
+participant-adress,291.4947,start preview hololens,kinect,na
+participant-adress,291.5529,start preview hololens,kinect,na
+participant-adress,291.603,start preview hololens,kinect,na
+participant-adress,291.6647,start preview hololens,kinect,na
+participant-adress,291.7135,start preview hololens,kinect,na
+participant-adress,291.739,stop preview,kinect,0,0255127
+participant-adress,291.7601,stop preview,kinect,0,04660034
+participant-adress,291.7942,stop preview,kinect,0,08068848
+participant-adress,291.808,stop preview,kinect,0,09451294
+participant-adress,291.8272,stop preview,kinect,0,1137085
+participant-adress,291.8528,stop preview,kinect,0,1393127
+participant-adress,291.864,stop preview,kinect,0,1505127
+participant-adress,291.9074,stop preview,kinect,0,1939087
+participant-adress,291.1923,start preview hololens,kinect,na
+participant-adress,291.416,start preview hololens,kinect,na
+participant-adress,291.517,start preview hololens,kinect,na
+participant-adress,291.6271,start preview hololens,kinect,na
+participant-adress,291.739,start preview hololens,kinect,na
+participant-adress,291.7942,start preview hololens,kinect,na
+participant-adress,291.8272,start preview hololens,kinect,na
+participant-adress,291.864,start preview hololens,kinect,na
+participant-adress,291.9074,start preview hololens,kinect,na
+participant-adress,291.9421,stop preview,kinect,0,03469849
+participant-adress,291.9609,stop preview,kinect,0,05349731
+participant-adress,291.9912,stop preview,kinect,0,08380127
+participant-adress,292.0013,stop preview,kinect,0,09390259
+participant-adress,292.0263,stop preview,kinect,0,1188965
+participant-adress,292.0483,stop preview,kinect,0,1408997
+participant-adress,291.317,start preview hololens,kinect,na
+participant-adress,291.6806,start preview hololens,kinect,na
+participant-adress,291.808,start preview hololens,kinect,na
+participant-adress,291.9421,start preview hololens,kinect,na
+participant-adress,291.9912,start preview hololens,kinect,na
+participant-adress,292.0263,start preview hololens,kinect,na
+participant-adress,292.0751,stop preview,kinect,0,04879761
+participant-adress,292.1053,stop preview,kinect,0,07897949
+participant-adress,292.1214,stop preview,kinect,0,09509277
+participant-adress,292.1437,stop preview,kinect,0,1174011
+participant-adress,292.1736,stop preview,kinect,0,1473083
+participant-adress,292.1947,stop preview,kinect,0,168396
+participant-adress,292.2268,stop preview,kinect,0,2005005
+participant-adress,292.2358,stop preview,kinect,0,2095032
+participant-adress,292.2599,stop preview,kinect,0,2335815
+participant-adress,291.5867,start preview hololens,kinect,na
+participant-adress,291.8528,start preview hololens,kinect,na
+participant-adress,292.0013,start preview hololens,kinect,na
+participant-adress,292.0751,start preview hololens,kinect,na
+participant-adress,292.1214,start preview hololens,kinect,na
+participant-adress,292.1736,start preview hololens,kinect,na
+participant-adress,292.2268,start preview hololens,kinect,na
+participant-adress,292.2599,start preview hololens,kinect,na
+participant-adress,292.2865,stop preview,kinect,0,02661133
+participant-adress,292.2973,stop preview,kinect,0,03741455
+participant-adress,292.3375,stop preview,kinect,0,0776062
+participant-adress,292.3747,stop preview,kinect,0,1148071
+participant-adress,292.3857,stop preview,kinect,0,125824
+participant-adress,292.4093,stop preview,kinect,0,1494141
+participant-adress,292.4363,stop preview,kinect,0,1764221
+participant-adress,291.7601,start preview hololens,kinect,na
+participant-adress,292.0483,start preview hololens,kinect,na
+participant-adress,292.1437,start preview hololens,kinect,na
+participant-adress,292.2358,start preview hololens,kinect,na
+participant-adress,292.2865,start preview hololens,kinect,na
+participant-adress,292.3375,start preview hololens,kinect,na
+participant-adress,292.3857,start preview hololens,kinect,na
+participant-adress,292.4363,start preview hololens,kinect,na
+participant-adress,292.4571,stop preview,kinect,0,02078247
+participant-adress,292.4881,stop preview,kinect,0,05178833
+participant-adress,292.4955,stop preview,kinect,0,0592041
+participant-adress,292.5379,stop preview,kinect,0,101593
+participant-adress,292.5603,stop preview,kinect,0,1239929
+participant-adress,292.5758,stop preview,kinect,0,1394958
+participant-adress,292.607,stop preview,kinect,0,1706848
+participant-adress,292.6384,stop preview,kinect,0,2020874
+participant-adress,292.6487,stop preview,kinect,0,2124023
+participant-adress,291.9609,start preview hololens,kinect,na
+participant-adress,292.1947,start preview hololens,kinect,na
+participant-adress,292.3747,start preview hololens,kinect,na
+participant-adress,292.4571,start preview hololens,kinect,na
+participant-adress,292.4955,start preview hololens,kinect,na
+participant-adress,292.5603,start preview hololens,kinect,na
+participant-adress,292.607,start preview hololens,kinect,na
+participant-adress,292.6487,start preview hololens,kinect,na
+participant-adress,292.6755,stop preview,kinect,0,02679443
+participant-adress,292.7024,stop preview,kinect,0,05368042
+participant-adress,292.7244,stop preview,kinect,0,07568359
+participant-adress,292.7504,stop preview,kinect,0,1016846
+participant-adress,292.7678,stop preview,kinect,0,1190796
+participant-adress,292.8016,stop preview,kinect,0,1528931
+participant-adress,292.8171,stop preview,kinect,0,168396
+participant-adress,292.8441,stop preview,kinect,0,1953735
+participant-adress,292.8716,stop preview,kinect,0,2229004
+participant-adress,292.1053,start preview hololens,kinect,na
+participant-adress,292.4093,start preview hololens,kinect,na
+participant-adress,292.5379,start preview hololens,kinect,na
+participant-adress,292.6384,start preview hololens,kinect,na
+participant-adress,292.7024,start preview hololens,kinect,na
+participant-adress,292.7504,start preview hololens,kinect,na
+participant-adress,292.8016,start preview hololens,kinect,na
+participant-adress,292.8441,start preview hololens,kinect,na
+participant-adress,292.8716,start preview hololens,kinect,na
+participant-adress,292.8935,stop preview,kinect,0,0218811
+participant-adress,292.9222,stop preview,kinect,0,05059814
+participant-adress,292.932,stop preview,kinect,0,06039429
+participant-adress,292.9733,stop preview,kinect,0,1016846
+participant-adress,293.0054,stop preview,kinect,0,1337891
+participant-adress,293.0248,stop preview,kinect,0,1531982
+participant-adress,293.0454,stop preview,kinect,0,1737976
+participant-adress,293.0673,stop preview,kinect,0,1956787
+participant-adress,292.2973,start preview hololens,kinect,na
+participant-adress,292.5758,start preview hololens,kinect,na
+participant-adress,292.7244,start preview hololens,kinect,na
+participant-adress,292.8171,start preview hololens,kinect,na
+participant-adress,292.8935,start preview hololens,kinect,na
+participant-adress,292.932,start preview hololens,kinect,na
+participant-adress,293.0054,start preview hololens,kinect,na
+participant-adress,293.0454,start preview hololens,kinect,na
+participant-adress,293.0673,start preview hololens,kinect,na
+participant-adress,293.0858,stop preview,kinect,0,01849365
+participant-adress,293.0977,stop preview,kinect,0,03039551
+participant-adress,293.1334,stop preview,kinect,0,06610107
+participant-adress,293.15,stop preview,kinect,0,08270264
+participant-adress,293.1769,stop preview,kinect,0,1096191
+participant-adress,293.1938,stop preview,kinect,0,1264954
+participant-adress,293.2102,stop preview,kinect,0,1429138
+participant-adress,293.2279,stop preview,kinect,0,160614
+participant-adress,292.4881,start preview hololens,kinect,na
+participant-adress,292.7678,start preview hololens,kinect,na
+participant-adress,292.9733,start preview hololens,kinect,na
+participant-adress,293.0858,start preview hololens,kinect,na
+participant-adress,293.1334,start preview hololens,kinect,na
+participant-adress,293.1769,start preview hololens,kinect,na
+participant-adress,293.2102,start preview hololens,kinect,na
+participant-adress,293.2593,stop preview,kinect,0,04910278
+participant-adress,293.2686,stop preview,kinect,0,05838013
+participant-adress,293.2916,stop preview,kinect,0,08139038
+participant-adress,293.3081,stop preview,kinect,0,09790039
+participant-adress,293.3316,stop preview,kinect,0,1213989
+participant-adress,293.3547,stop preview,kinect,0,1445007
+participant-adress,293.3627,stop preview,kinect,0,1524963
+participant-adress,293.4126,stop preview,kinect,0,2023926
+participant-adress,293.4489,stop preview,kinect,0,2387085
+participant-adress,292.6755,start preview hololens,kinect,na
+participant-adress,293.0248,start preview hololens,kinect,na
+participant-adress,293.15,start preview hololens,kinect,na
+participant-adress,293.2279,start preview hololens,kinect,na
+participant-adress,293.2686,start preview hololens,kinect,na
+participant-adress,293.3081,start preview hololens,kinect,na
+participant-adress,293.3547,start preview hololens,kinect,na
+participant-adress,293.4126,start preview hololens,kinect,na
+participant-adress,293.4772,stop preview,kinect,0,06460571
+participant-adress,293.493,stop preview,kinect,0,08041382
+participant-adress,293.5214,stop preview,kinect,0,1087952
+participant-adress,293.5394,stop preview,kinect,0,1268005
+participant-adress,293.561,stop preview,kinect,0,148407
+participant-adress,293.5779,stop preview,kinect,0,1653137
+participant-adress,293.5949,stop preview,kinect,0,182312
+participant-adress,293.6218,stop preview,kinect,0,209198
+participant-adress,293.6321,stop preview,kinect,0,2195129
+participant-adress,292.9222,start preview hololens,kinect,na
+participant-adress,293.1938,start preview hololens,kinect,na
+participant-adress,293.2916,start preview hololens,kinect,na
+participant-adress,293.3627,start preview hololens,kinect,na
+participant-adress,293.4772,start preview hololens,kinect,na
+participant-adress,293.5214,start preview hololens,kinect,na
+participant-adress,293.561,start preview hololens,kinect,na
+participant-adress,293.5949,start preview hololens,kinect,na
+participant-adress,293.6321,start preview hololens,kinect,na
+participant-adress,293.6644,stop preview,kinect,0,0322876
+participant-adress,293.6926,stop preview,kinect,0,06048584
+participant-adress,293.7103,stop preview,kinect,0,07818604
+participant-adress,293.727,stop preview,kinect,0,09487915
+participant-adress,293.7435,stop preview,kinect,0,1113892
+participant-adress,293.7592,stop preview,kinect,0,1270752
+participant-adress,293.7782,stop preview,kinect,0,1460876
+participant-adress,293.8085,stop preview,kinect,0,1763916
+participant-adress,293.8436,stop preview,kinect,0,2114868
+participant-adress,293.8546,stop preview,kinect,0,2225037
+participant-adress,293.8764,stop preview,kinect,0,2442932
+participant-adress,293.9065,stop preview,kinect,0,2743835
+participant-adress,293.9261,stop preview,kinect,0,2939758
+participant-adress,293.0977,start preview hololens,kinect,na
+participant-adress,293.3316,start preview hololens,kinect,na
+participant-adress,293.493,start preview hololens,kinect,na
+participant-adress,293.5779,start preview hololens,kinect,na
+participant-adress,293.6644,start preview hololens,kinect,na
+participant-adress,293.7103,start preview hololens,kinect,na
+participant-adress,293.7435,start preview hololens,kinect,na
+participant-adress,293.7782,start preview hololens,kinect,na
+participant-adress,293.8436,start preview hololens,kinect,na
+participant-adress,293.8764,start preview hololens,kinect,na
+participant-adress,293.9065,start preview hololens,kinect,na
+participant-adress,293.9261,start preview hololens,kinect,na
+participant-adress,293.9571,stop preview,kinect,0,03100586
+participant-adress,293.9659,stop preview,kinect,0,03982544
+participant-adress,294.0082,stop preview,kinect,0,0821228
+participant-adress,294.0342,stop preview,kinect,0,1081238
+participant-adress,294.0647,stop preview,kinect,0,1386108
+participant-adress,294.0821,stop preview,kinect,0,1560059
+participant-adress,294.1086,stop preview,kinect,0,1825256
+participant-adress,294.1373,stop preview,kinect,0,2112122
+participant-adress,294.1495,stop preview,kinect,0,2234192
+participant-adress,294.1773,stop preview,kinect,0,2512207
+participant-adress,293.2593,start preview hololens,kinect,na
+participant-adress,293.5394,start preview hololens,kinect,na
+participant-adress,293.6926,start preview hololens,kinect,na
+participant-adress,293.7592,start preview hololens,kinect,na
+participant-adress,293.8546,start preview hololens,kinect,na
+participant-adress,293.9571,start preview hololens,kinect,na
+participant-adress,294.0082,start preview hololens,kinect,na
+participant-adress,294.0647,start preview hololens,kinect,na
+participant-adress,294.1086,start preview hololens,kinect,na
+participant-adress,294.1495,start preview hololens,kinect,na
+participant-adress,294.1773,start preview hololens,kinect,na
+participant-adress,294.2014,stop preview,kinect,0,02407837
+participant-adress,294.2252,stop preview,kinect,0,04788208
+participant-adress,294.2422,stop preview,kinect,0,06488037
+participant-adress,294.2604,stop preview,kinect,0,08309937
+participant-adress,294.2779,stop preview,kinect,0,1005859
+participant-adress,294.3039,stop preview,kinect,0,1265869
+participant-adress,294.3295,stop preview,kinect,0,1521912
+participant-adress,293.4489,start preview hololens,kinect,na
+participant-adress,293.727,start preview hololens,kinect,na
+participant-adress,293.9659,start preview hololens,kinect,na
+participant-adress,294.0821,start preview hololens,kinect,na
+participant-adress,294.2014,start preview hololens,kinect,na
+participant-adress,294.2422,start preview hololens,kinect,na
+participant-adress,294.2779,start preview hololens,kinect,na
+participant-adress,294.3295,start preview hololens,kinect,na
+participant-adress,294.3541,stop preview,kinect,0,02459717
+participant-adress,294.3667,stop preview,kinect,0,03720093
+participant-adress,294.3988,stop preview,kinect,0,06930542
+participant-adress,294.4254,stop preview,kinect,0,09591675
+participant-adress,294.4384,stop preview,kinect,0,1088867
+participant-adress,294.4686,stop preview,kinect,0,1390991
+participant-adress,294.5011,stop preview,kinect,0,1716003
+participant-adress,294.5159,stop preview,kinect,0,1864014
+participant-adress,294.542,stop preview,kinect,0,2124939
+participant-adress,294.5588,stop preview,kinect,0,2293091
+participant-adress,294.5754,stop preview,kinect,0,2459106
+participant-adress,293.6218,start preview hololens,kinect,na
+participant-adress,294.0342,start preview hololens,kinect,na
+participant-adress,294.2252,start preview hololens,kinect,na
+participant-adress,294.3039,start preview hololens,kinect,na
+participant-adress,294.3667,start preview hololens,kinect,na
+participant-adress,294.4254,start preview hololens,kinect,na
+participant-adress,294.4686,start preview hololens,kinect,na
+participant-adress,294.5159,start preview hololens,kinect,na
+participant-adress,294.5588,start preview hololens,kinect,na
+participant-adress,294.6015,stop preview,kinect,0,04269409
+participant-adress,294.6442,stop preview,kinect,0,08538818
+participant-adress,294.6861,stop preview,kinect,0,1272888
+participant-adress,294.7113,stop preview,kinect,0,1524963
+participant-adress,293.8085,start preview hololens,kinect,na
+participant-adress,294.2604,start preview hololens,kinect,na
+participant-adress,294.3988,start preview hololens,kinect,na
+participant-adress,294.5011,start preview hololens,kinect,na
+participant-adress,294.5754,start preview hololens,kinect,na
+participant-adress,294.6442,start preview hololens,kinect,na
+participant-adress,294.1373,start preview hololens,kinect,na
+participant-adress,294.4384,start preview hololens,kinect,na
+participant-adress,294.6015,start preview hololens,kinect,na
+participant-adress,294.3541,start preview hololens,kinect,na
+participant-adress,294.6861,start preview hololens,kinect,na
+participant-adress,294.542,start preview hololens,kinect,na
+participant-adress,304.0219,start preview virtual,kinect,na
+participant-adress,304.0219,stop preview,kinect,0
+participant-adress,304.0955,start preview hololens,kinect,na
+participant-adress,304.0955,stop preview,kinect,0
+participant-adress,304.2582,start preview virtual,kinect,na
+participant-adress,304.2582,stop preview,kinect,0
+participant-adress,305.1874,virtual view,na,55,05641
+participant-adress,306.8243,start preview hololens,virtual,na
+participant-adress,306.8872,stop preview,virtual,0,06289673
+participant-adress,332.2605,start preview hololens,virtual,na
+participant-adress,332.743,stop preview,virtual,0,4825134
+participant-adress,336.4745,start preview hololens,virtual,na
+participant-adress,337.3073,stop preview,virtual,0,8328247
+participant-adress,337.6581,start preview hololens,virtual,na
+participant-adress,337.7565,stop preview,virtual,0,09838867
+participant-adress,338.3212,hololens view,na,33,13379
+participant-adress,345.2351,show camera position,na,na
+participant-adress,349.7502,start preview virtual,hololens,na
+participant-adress,350.5501,stop preview,hololens,0,7998962
+participant-adress,351.1041,virtual view,na,12,7829
+participant-adress,357.0492,start use spherical camera,virtual,na
+participant-adress,385.0267,stop use spherical camera,virtual,27,97751
+participant-adress,385.0267,stop use spherical camera,virtual,27,97751
+participant-adress,385.743,start preview hololens,virtual,na
+participant-adress,387.3252,stop preview,virtual,1,582184
+participant-adress,387.3591,virtual view,na,36,255
+participant-adress,398.1562,start preview hololens,virtual,na
+participant-adress,398.7885,stop preview,virtual,0,6323242
+participant-adress,398.8213,start preview kinect,virtual,na
+participant-adress,399.5959,stop preview,virtual,0,7745972
+participant-adress,399.6219,start preview hololens,virtual,na
+participant-adress,399.655,start preview hololens,virtual,na
+participant-adress,399.6395,stop preview,virtual,-0,01550293
+participant-adress,400.1739,stop preview,virtual,0,5188904
+participant-adress,400.7022,hololens view,na,13,34311
+participant-adress,413.2169,reset virtual camera position,na,na
+participant-adress,413.5507,virtual view,na,12,84848
+participant-adress,431.9453,start preview hololens,virtual,na
+participant-adress,433.8459,stop preview,virtual,1,900574
+participant-adress,435.3483,start preview hololens,virtual,na
+participant-adress,436.8982,stop preview,virtual,1,549896
+participant-adress,442.2598,start preview hololens,virtual,na
+participant-adress,464.8034,reset virtual camera position,na,na
+participant-adress,464.8197,start preview hololens,virtual,na
+participant-adress,464.8034,stop preview,virtual,-0,01629639
+participant-adress,464.8363,virtual view,na,51,28561
+participant-adress,466.3202,stop preview,virtual,1,500488
+participant-adress,472.3248,start preview hololens,virtual,na
+participant-adress,476.802,stop preview,virtual,4,477203
+participant-adress,480.6484,start preview hololens,virtual,na
+participant-adress,483.7582,stop preview,virtual,3,109802
+participant-adress,485.9312,start preview hololens,virtual,na
+participant-adress,488.9813,stop preview,virtual,3,050079
+participant-adress,509.1614,start using stick,virtual,na
+participant-adress,511.8215,stop using stick,virtual,2,660095
+participant-adress,512.4294,start preview hololens,virtual,na
+participant-adress,512.4294,stop preview,virtual,0
+participant-adress,512.6608,start preview hololens,virtual,na
+participant-adress,512.9631,stop preview,virtual,0,3022461
+participant-adress,513.4896,hololens view,na,48,65332
+participant-adress,516.2883,start using stick,hololens,na
+participant-adress,516.2883,start freeze hololens view,na,na
+participant-adress,516.5234,start preview hololens,hololens,na
+participant-adress,520.1925,stop using stick,hololens,3,904175
+participant-adress,520.1925,stop preview,hololens,3,669128
+participant-adress,520.1925,hololens view,na,6,702881
+participant-adress,521.5419,start using stick,hololens,na
+participant-adress,521.5419,start freeze hololens view,na,na
+participant-adress,525.0216,stop using stick,hololens,3,479736
+participant-adress,525.0216,hololens view,na,4,829102
+participant-adress,533.1347,start using stick,hololens,na
+participant-adress,533.1347,start freeze hololens view,na,na
+participant-adress,536.9849,stop using stick,hololens,3,85022
+participant-adress,536.9849,hololens view,na,11,96332
+participant-adress,539.3824,start preview kinect,hololens,na
+participant-adress,539.7656,stop preview,hololens,0,3832397
+participant-adress,540.319,kinect view,na,3,334045
+participant-adress,541.4152,start using stick,kinect,na
+participant-adress,547.33,stop using stick,kinect,5,914795
+participant-adress,549.0967,start using stick,kinect,na
+participant-adress,549.6429,virtual view,na,9,323914
+participant-adress,553.5527,stop using stick,virtual,4,455994
+participant-adress,554.1144,start preview kinect,virtual,na
+participant-adress,554.1144,stop preview,virtual,0
+participant-adress,554.3306,start preview kinect,virtual,na
+participant-adress,554.6185,stop preview,virtual,0,2879028
+participant-adress,555.1453,kinect view,na,5,502441
+participant-adress,555.8466,start using stick,kinect,na
+participant-adress,562.5768,stop using stick,kinect,6,730164
+participant-adress,564.2583,start using stick,kinect,na
+participant-adress,567.991,stop using stick,kinect,3,732727
+participant-adress,570.3913,virtual view,na,15,24597
+participant-adress,574.4987,start preview kinect,virtual,na
+participant-adress,574.9109,stop preview,virtual,0,4121704
+participant-adress,579.2047,start preview hololens,virtual,na
+participant-adress,579.291,stop preview,virtual,0,08630371
+participant-adress,579.3276,start preview hololens,virtual,na
+participant-adress,580.0876,stop preview,virtual,0,7600098
+participant-adress,580.5813,hololens view,na,10,19
+participant-adress,581.3875,start using stick,hololens,na
+participant-adress,581.3875,start freeze hololens view,na,na
+participant-adress,584.6862,stop using stick,hololens,3,298706
+participant-adress,584.6862,hololens view,na,4,104919

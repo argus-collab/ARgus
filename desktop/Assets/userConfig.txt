@@ -1,0 +1,9 @@
+2
+arthur
+tuto multiview done
+tuto hololens done
+200
+0,08
+40
+0,05
+1

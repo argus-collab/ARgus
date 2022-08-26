@@ -1,0 +1,20 @@
+custom-support supportCustomFormat 0 0 0 7 13 0,07 False
+sized-part part5 0,162 -0,03417969 -0,622 0 0 0 1 0,7
+sized-part part9 -0,09 -0,03417969 -0,615 0 0 0 1 0,7
+sized-part part8 -0,345 -0,03417969 -0,6109999 0 0 0 1 0,7
+sized-part part6 -0,603 -0,03417969 -0,328 0 0 0 1 0,7
+sized-part part9-duplicated -0,603 -0,03417969 -0,095 0 0 0 1 0,7
+sized-part part7 -0,604 -0,03417969 0,14 0 0 0 1 0,7
+sized-part part3 -0,602 -0,03417969 0,38 0 0 0 1 0,7
+sized-part part5-duplicated -0,33 -0,03417969 0,64 0 0 0 1 0,7
+sized-part part4-duplicated -0,07999999 -0,03417969 0,647 0 0 0 1 0,7
+sized-part part1-duplicated -0,596 0 0,646 0 0 0 1 0,7
+sized-part part4 -0,601 0 -0,598 0 0 0 1 0,7
+sized-part part1 -0,335 0 0,9100001 0 0 0 1 0,7
+sized-part part8-duplicated -0,08099999 0 0,9220001 0 0 0 1 0,7
+sized-part part3-duplicated 0,185 0 0,914 0 0 0 1 0,7
+sized-part part6-duplicated -0,342 0 -0,8710001 0 0 0 1 0,7
+sized-part part2 -0,09299999 0 -0,877 0 0 0 1 0,7
+sized-part part2-duplicated 0,161 0 -0,876 0 0 0 1 0,7
+sized-part part7-duplicated 0,171 0 0,653 0 0 0 1 0,7
+color off

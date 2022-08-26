@@ -1,0 +1,11 @@
+custom-support supportCustomFormat 0 0 0 5 9 0,1 False
+sized-part part7 0,214 -0,01708985 0,652 0 0 0 1 1
+sized-part part5 -0,118 -0,01708985 0,652 0 0 0 1 1
+sized-part part1 -0,465 -0,01708985 0,652 0 0 0 1 1
+sized-part part3 -0,463 -0,01708985 0,326 0 0 0 1 1
+sized-part part4 -0,462 -0,01708985 -0,004999999 0 0 0 1 1
+sized-part part6 -0,462 -0,01708985 -0,329 0 0 0 1 1
+sized-part part9 -0,461 -0,01708985 -0,6760001 0 0 0 1 1
+sized-part part2 -0,124 -0,01708985 -0,6810001 0 0 0 1 1
+sized-part part8 0,203 -0,01708985 -0,6810001 0 0 0 1 1
+color off

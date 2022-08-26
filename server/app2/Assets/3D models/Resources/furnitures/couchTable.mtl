@@ -1,0 +1,15 @@
+# couchTable.mtl
+# 
+# Created by Jabberwalky
+# Normals and textures coordinates adjusted by Emmanuel Puybaret / eTeks
+# https://sourceforge.net/p/sweethome3d/d-models/435/ 
+#
+# This file is distributed under Free Art License, see http://artlibre.org/licence/lal/en for more informations
+#
+newmtl Material
+Ns 15
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.1 0.1 0.1
+illum 2
+map_Kd beech.jpg
