@@ -107,8 +107,8 @@ The main scene is `Assets/Scenes/Server/MainServer`. The spatial calibration sho
 
 1. App1 on the local server 
 2. App2 on the local server
-3. hololens on the local Hololens 2
-4. desktop on the remote computer
+3. Hololens on the local Hololens 2
+4. Desktop on the remote computer
 
 ## Resources
 
